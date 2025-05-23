@@ -83,6 +83,13 @@ Visualizations of top words are available for both positive and negative reviews
 ![download (4)](https://github.com/user-attachments/assets/58c6510b-260e-421a-96a1-188d4bf9cdfa)
 ![download (3)](https://github.com/user-attachments/assets/6e1452af-0ba8-475f-a098-70b0bea3c9b2)
 ---
+## Models Evaluation:
+![Accuracy](https://github.com/user-attachments/assets/a50ce125-5537-44f7-bbc1-1c9efe77a779)
+![Recall](https://github.com/user-attachments/assets/df019da5-f5bf-4501-a79b-05b214cc3d3d)
+![precision](https://github.com/user-attachments/assets/5c235e4b-ec41-4384-9e1a-e200f47eea7e)
+![f1_score](https://github.com/user-attachments/assets/72054e9b-b98e-47ca-942a-0a1f6ab40939)
+![comparizon](https://github.com/user-attachments/assets/f095b675-3939-4e2b-b731-c608aa2a2079)
+---
 
 ## 🚀 Running the App
 
@@ -93,11 +100,7 @@ To run the app locally, use the following command:
 ```bash
 streamlit run streamlit.py  # Replace with your actual Streamlit app script
 ```
-![Accuracy](https://github.com/user-attachments/assets/a50ce125-5537-44f7-bbc1-1c9efe77a779)
-![Recall](https://github.com/user-attachments/assets/df019da5-f5bf-4501-a79b-05b214cc3d3d)
-![precision](https://github.com/user-attachments/assets/5c235e4b-ec41-4384-9e1a-e200f47eea7e)
-![f1_score](https://github.com/user-attachments/assets/72054e9b-b98e-47ca-942a-0a1f6ab40939)
-![comparizon](https://github.com/user-attachments/assets/f095b675-3939-4e2b-b731-c608aa2a2079)
+
 
 ---
 
