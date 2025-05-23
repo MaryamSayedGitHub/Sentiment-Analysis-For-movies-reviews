@@ -32,7 +32,7 @@ pyspellchecker
 wordcloud
 joblib
 streamlit
-
+```
 ---
 
 ## 🧠 Model Details
