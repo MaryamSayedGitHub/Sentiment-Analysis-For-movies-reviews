@@ -65,9 +65,68 @@ The expected dataset file is `prepared_reviews.csv`.
 ### Vectorization
 Applies `CountVectorizer` and `TfidfVectorizer` to transform text data into numerical features for model input.
 
+
+
 ## 🎯 Sentiment Distribution
 The project analyzes the distribution of sentiments in the dataset:
 
 ```python
 df['label'].value_counts()
+```
+Visualizations of top words are available for both positive and negative reviews, including:
+- Bar charts of most frequent words.
+- WordClouds for both sentiment categories.
+![download (2)](https://github.com/user-attachments/assets/9e232531-82cc-4f15-9ee5-fc8a37e7399c)
+![download (1)](https://github.com/user-attachments/assets/2ab0734c-cc0e-4747-8172-d21575a3e478)
+![download](https://github.com/user-attachments/assets/91825f61-bcd5-4a37-a4a1-c5447ad45abc)
+![download (5)](https://github.com/user-attachments/assets/3adf3705-d5c8-4c19-8ca0-3f58724d862e)
+![download (4)](https://github.com/user-attachments/assets/58c6510b-260e-421a-96a1-188d4bf9cdfa)
+![download (3)](https://github.com/user-attachments/assets/6e1452af-0ba8-475f-a098-70b0bea3c9b2)
+---
+
+## 🚀 Running the App
+
+The Streamlit application allows users to input reviews and receive real-time sentiment predictions using the trained model.
+
+To run the app locally, use the following command:
+
+```bash
+streamlit run streamlit.py  # Replace with your actual Streamlit app script
+```
+![Accuracy](https://github.com/user-attachments/assets/a50ce125-5537-44f7-bbc1-1c9efe77a779)
+![Recall](https://github.com/user-attachments/assets/df019da5-f5bf-4501-a79b-05b214cc3d3d)
+![precision](https://github.com/user-attachments/assets/5c235e4b-ec41-4384-9e1a-e200f47eea7e)
+![f1_score](https://github.com/user-attachments/assets/72054e9b-b98e-47ca-942a-0a1f6ab40939)
+![comparizon](https://github.com/user-attachments/assets/f095b675-3939-4e2b-b731-c608aa2a2079)
+
+---
+
+## 📸 Streamlit App Screenshots
+
+
+#  Negative
+![WhatsApp Image 2025-05-18 at 09 04 23_00f78de0](https://github.com/user-attachments/assets/367dd336-65ba-41e5-a8a4-af55b06d08f3)
+
+
+#  Positive
+![8](https://github.com/user-attachments/assets/48867581-b548-438b-a5fb-33562e519652)
+
+---
+
+## 👥 Contributors
+
+This project was developed as part of the **Natural Language Processing (NLP)** course at the **Faculty of Computers and Information, Ain Shams University**.  
+The system is tailored specifically for **movie reviews sentiment analysis**.
+
+- **مهاب محمد سيد عبدالغني** (20201700871)  
+- **سندس وائل منصور عبد المنعم** (2021170242)  
+- **فرح حسین محمد سالم** (2021170391)  
+- **فاطمه الزهراء محمود حامد** (2021170385)  
+- **جهاد السيد محمود عبدالمجيد** (2021170145)  
+- **مريم سيد أحمد** (2021170506)
+
+---
+
+
+
 
