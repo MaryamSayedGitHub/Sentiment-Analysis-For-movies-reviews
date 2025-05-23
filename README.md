@@ -81,7 +81,7 @@ Visualizations of top words are available for both positive and negative reviews
 ![download](https://github.com/user-attachments/assets/91825f61-bcd5-4a37-a4a1-c5447ad45abc)
 ![download (5)](https://github.com/user-attachments/assets/3adf3705-d5c8-4c19-8ca0-3f58724d862e)
 ![download (4)](https://github.com/user-attachments/assets/58c6510b-260e-421a-96a1-188d4bf9cdfa)
-![download (3)](https://github.com/user-attachments/assets/6e1452af-0ba8-475f-a098-70b0bea3c9b2)
+
 ---
 ## Models Evaluation:
 ![Accuracy](https://github.com/user-attachments/assets/a50ce125-5537-44f7-bbc1-1c9efe77a779)
